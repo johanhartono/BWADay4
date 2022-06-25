@@ -1,4 +1,4 @@
-import 'package:bwadesigntocodeday4/first_empty.dart';
+import 'package:bwadesigntocodeday4/second_empty.dart';
 import 'package:flutter/material.dart';
 
 
@@ -15,7 +15,7 @@ class SevenDays extends StatelessWidget {
     return const MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Seven Days Flutter Demo',
-        home: FirstEmpty(
+        home: SecondEmpty(
        
         )
         );
